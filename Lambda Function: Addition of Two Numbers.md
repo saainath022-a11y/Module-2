@@ -11,6 +11,11 @@ To write a Python program that defines a **lambda function** which takes two arg
 ## 🧾 Program
 Add code here
 
+add=lambda a,b: a+b
+print("Sum of given is",add(int(input("Enter any number")),int(input('Enter any number'))))
 ## Output
+<img width="841" height="142" alt="mod 2 3" src="https://github.com/user-attachments/assets/241c642c-cc56-4387-b2d6-aa9f793543b1" />
 
 ## Result
+Successfully wrote a Python program that defines a lambda function which takes two arguments a and b, and returns their sum.
+
